@@ -1,0 +1,56 @@
+@font-face {
+  font-family: artHistoryBook;
+  src: url(../fonts/arthistorybook.otf);
+}
+
+@font-face {
+  font-family: calinastiya;
+  src: url(../fonts/calinastiya.ttf);
+}
+
+body
+{
+	margin: 0;
+	background-image: url("../images/background.jpeg");
+}
+
+#toolbar
+{
+	padding: 0;
+	width: 100%;
+	height: 10%;
+  	background-image: url("../images/toolbar-bg.jpeg");
+  	background-repeat: repeat;
+}
+
+.toolbar-button
+{
+	width: auto;
+	height: 100%;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+#logo
+{
+	cursor: default;
+}
+
+.toolbar-button img
+{
+	height: 100%;
+	width: 100%;
+}
+
+#socialmedia
+{
+	float: right;
+}
+
+#socialmedia img
+{
+	height: 50%;
+	width: auto;
+}

@@ -1,0 +1,30 @@
+.videos-button
+{
+	background-color: transparent;
+	border: none;
+	margin: 0px 10px;
+	font-size: 1vw;
+	cursor: pointer;
+}
+
+.videos-button:hover
+{
+	font-size: 1.25vw;
+}
+
+#videos-toolbar
+{
+	margin: 25px 0px;
+}
+
+.video
+{
+	display: inline-block;
+	margin: 10px;
+	color: white;
+}
+
+.video a
+{
+	display: inline-block;
+}

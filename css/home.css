@@ -1,0 +1,23 @@
+#slideshow
+{
+	padding: 0;
+	height: 100%;
+	width: 80%;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+	font-family: calinastiya;
+	letter-spacing: 0.05vw;
+}
+
+#slideshow span
+{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 10px;
+}
+
+#slideshow p
+{
+	font-size: 12vw;
+}
